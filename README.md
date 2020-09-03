@@ -8,5 +8,7 @@ Use the following command to install required dependencies:
 > pip3 install -r requirements.txt
 
 
+This build requires the use an older tensorflow library:
+> tensorflow==1.15
 
 

@@ -1,3 +1,7 @@
+# IGNORE LARGE DONWLOADED MODELS
+models
+
+
 # IGNORE KEYS
 Tweets/keys.py
 

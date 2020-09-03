@@ -3,3 +3,4 @@ fire
 tqdm
 textblob
 tweepy
+gpt-2-simple
